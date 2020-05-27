@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 -- Table structure for table `students`
 --
 
-USE CRUD;
+USE crud;
 
 CREATE TABLE `students` (
   `student_id` int(11) NOT NULL,
